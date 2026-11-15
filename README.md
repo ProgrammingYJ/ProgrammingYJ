@@ -49,7 +49,7 @@ v1.0.0 배포 · **ARM64 v2.0.0 개발 중** · 퍼블릭 도메인
 ## 🤖 AI와 일하는 방식
 
 LLM을 적극적으로 쓰지만, **손은 빌려도 머리는 빌리지 않습니다.**
-컨텍스트는 문서(`CLAUDE.md`, 작업 노트, 버전 기록)로 관리하고, 모든 결과물은 검증을 거친 뒤에 내보내며, 최종 판단은 언제나 제가 합니다.
+컨텍스트는 문서(`AGENTS.md`, 작업 노트, 버전 기록)로 관리하고, 모든 결과물은 검증을 거친 뒤에 내보내며, 최종 판단은 언제나 제가 합니다.
 CTF에서는 Claude Code 세션을 최대 10개까지 병렬로 운영합니다.
 
 ## 🧰 기술 스택
@@ -100,7 +100,7 @@ My portfolio — vanilla HTML/CSS/JS with a working fake shell in the hero. Try 
 ## 🤖 How I Work with AI
 
 I use LLMs heavily — **as hands, not as a head.**
-Context lives in docs (`CLAUDE.md`, notes, version logs), every output gets verified before it ships, and the final call is always mine.
+Context lives in docs (`AGENTS.md`, notes, version logs), every output gets verified before it ships, and the final call is always mine.
 In CTFs I run up to 10 Claude Code sessions in parallel.
 
 ## 🧰 Stack
